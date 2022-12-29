@@ -1,5 +1,5 @@
 # Quality-Auto-Services
-A Customer Delight Platform named QualityAutoService that provides quick and comprehensive access to automotive information, allowing users to choose the right vehicle for their needs. A website that uses data analysis and machine learning to assist users choose cars that meet their demands is called QualityAutoService. Its contents include engaging visualizations, cutting-edge data analysis, and AI chatbots for various brand model cars. 
+A Customer Delight Platform named QualityAutoService that provides quick and comprehensive access to automotive information, allowing users to choose the right vehicle for their needs. 
 
 # Tech Stack:
 HTML, CSS3, JavaScript, Python, Django
