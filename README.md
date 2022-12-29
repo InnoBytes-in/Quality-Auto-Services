@@ -5,14 +5,14 @@ A Customer Delight Platform named QualityAutoService that provides quick and com
 HTML, CSS3, JavaScript, Python, Django
 
 # How to run this project:
-Clone the project
-Install requirements.txt
+* Clone the project
+* Install requirements.txt
   pip install -r requirements.txt
-Run project on terminal
+* Run project on terminal
   python manage.py runserver
   starting development server at http://127.0.0.1:8000/
   will appear on the terminal click on the http
-The website will run on the localhost
+* The website will run on the localhost
 
 # About the project 
 QualityAutoServices is a data analysis and machine learning venture that helps users search cars that meet their requirements.
