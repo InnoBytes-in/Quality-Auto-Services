@@ -2,7 +2,7 @@
 A Customer Delight Platform named QualityAutoService that provides quick and comprehensive access to automotive information, allowing users to choose the right vehicle for their needs. 
 
 # Tech Stack:
-HTML, CSS3, JavaScript, Python, Django
+JavaScript, Python, Django, HTML, CSS, Machine Learning
 
 # How to run this project:
 * Clone the project
